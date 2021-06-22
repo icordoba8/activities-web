@@ -18,6 +18,16 @@ php artisan key:generate
 
 ```
 
+# Agregar variable API_REST aechivo .env
+
+```
+Esta el la variable de la api que tomara la plataforma web para las peticiones
+el puerto debe ser el mismo que toma la
+API_REST = http://127.0.0.1:[PUERTO API]/api
+
+Ejemplo API_REST = http://127.0.0.1:2020/api
+
+```
 
 
 # Subir serve web
