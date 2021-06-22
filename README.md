@@ -2,6 +2,13 @@
 
 A continuación, tenemos una secuencia de comnados a utilizar antes de subir el server web
 
+# Instalar dependencias antes de correr el proyecto
+
+```
+composer install
+
+```
+
 # Generar .env después de clonar repositorio
 
 ```
@@ -11,12 +18,7 @@ php artisan key:generate
 
 ```
 
-# Instalar dependencias antes de correr el proyecto
 
-```
-composer install
-
-```
 
 # Subir serve web
 
